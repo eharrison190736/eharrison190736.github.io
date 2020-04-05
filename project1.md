@@ -13,9 +13,11 @@ This program is a HTML parser that determines if the HTML tags are balanced. The
 
 ## How to compiles / run the program
 
+```bash
 make
 
 ./html-test ./pages/theend.html ./pages/pokemon.html ./pages/index.html ./pages/notbalanced.html
+```
 
 ## UI Design
 
