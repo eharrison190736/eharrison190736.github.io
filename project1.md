@@ -4,10 +4,9 @@ Project 1 Title
 ===============
 
 -   **Class: CSCI 315 - Data Structures** 
--   **Grade: A **
+-   **Grade: A**
 -   **Language(s): C++**
--   **Source Code Repository: https://github.com/eharrison190736/csci-315-fall-2019/tree/master/project2** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository: https://github.com/eharrison190736/csci-315-fall-2019/tree/master/project2**
 
 ## Project description
 This program is a HTML parser that determines if the HTML tags are balanced. The program will also be able to count how many webpages that can be visited from a HTML page. 
