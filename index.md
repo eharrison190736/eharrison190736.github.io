@@ -33,7 +33,7 @@ Ethics Papers
 
 ### [Paper 1 Title](/pdf/survey ethics paper.pdf)
 
--   **Class: CSCI 301  **  
+-   **Class: CSCI 301**  
 -   **Grade: A**  
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
