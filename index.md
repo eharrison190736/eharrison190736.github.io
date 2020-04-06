@@ -36,7 +36,7 @@ Ethics Papers
 -   **Class: CSCI 301**  
 -   **Grade: A**  
 
-### [Paper 2 Title](/pdf/Ethics_315 .pdf)
+### [Paper 2 Title](/pdf/Ethics_315.pdf)
 
 -   **Class: CSCI 315** 
 -   **Grade: B**
