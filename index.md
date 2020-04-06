@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/survey ethics paper.pdf)
+### [Paper 1 Title](/pdf/survey_ethics_paper.pdf)
 
 -   **Class: CSCI 301**  
 -   **Grade: A**  
