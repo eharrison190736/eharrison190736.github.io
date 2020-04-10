@@ -6,7 +6,7 @@ Project 2 Title
 -   **Class: CSCI 325 - Object Oriented** 
 -   **Grade: A**
 -   **Language(s): Java**
--   **Source Code Repository: https://github.com/eharrison190736/Boats*
+-   **Source Code Repository: https://github.com/eharrison190736/Boats**
 
 ## Project description
 This program is a HTML parser that determines if the HTML tags are balanced. The program will also be able to count how many webpages that can be visited from a HTML page. 
