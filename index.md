@@ -41,10 +41,10 @@ Ethics Papers
 -   **Class: CSCI 315** 
 -   **Grade: B**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Paper 3 Title](/pdf/RoboticsEthicsPaper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 210** 
+-   **Grade: A**
 
 ---
 
