@@ -9,12 +9,12 @@ Programming Projects
 ---
 ### [HTML Parser | CSCI 315](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/HTML_Tags.jpg)
 
 ---
 ### [ Boats | CSCI 325](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/boats.jpg)
 
 ---
 ### [Right Triangle | CSCI 301](project3)
