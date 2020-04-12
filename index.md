@@ -36,12 +36,12 @@ Ethics Papers
 -   **Class: CSCI 301**  
 -   **Grade: A**  
 
-### [Paper 2 Title](/pdf/Ethics_315.pdf)
+### [How much is to much?](/pdf/Ethics_315.pdf)
 
 -   **Class: CSCI 315** 
 -   **Grade: B**
 
-### [Paper 3 Title](/pdf/RoboticsEthicsPaper.pdf)
+### [What is an Ethical Hacker?](/pdf/RoboticsEthicsPaper.pdf)
 
 -   **Class: CSCI 210** 
 -   **Grade: A**
