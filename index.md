@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Battle Ship | CSCI 235](project4)
 
-![Project 4 Thumbnail Name](Battleship.jfif)
+![Project 4 Thumbnail Name](images/Battleship.jfif)
 
 ---
 
