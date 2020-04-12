@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 3 Title
+Right Triangle
 ===============
 
 -   **Class: CSCI 301 - Survey of Scripting Languages** 
