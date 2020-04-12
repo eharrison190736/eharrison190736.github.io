@@ -3,7 +3,7 @@
 Battle Ship
 ===============
 
--   **Class: CSCI 301 - Procedual Programming** 
+-   **Class: CSCI 235 - Procedual Programming** 
 -   **Grade: A**
 -   **Language(s): C++**
 -   **Source Code Repository: https://github.com/eharrison190736/BattleShip-C-**
