@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+HTML Parser
 ===============
 
 -   **Class: CSCI 315 - Data Structures** 
