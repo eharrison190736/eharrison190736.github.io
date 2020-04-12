@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Right Triangle | CSCI 301](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/right-triangle-formulas.gif)
 
 ---
 ### [Battle Ship | CSCI 235](project4)
