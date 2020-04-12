@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 2 Title
+Boats
 ===============
 
 -   **Class: CSCI 325 - Object Oriented** 
@@ -9,7 +9,7 @@ Project 2 Title
 -   **Source Code Repository: https://github.com/eharrison190736/Boats**
 
 ## Project description
-This program is a HTML parser that determines if the HTML tags are balanced. The program will also be able to count how many webpages that can be visited from a HTML page. 
+This program shows how inheritance works in O-O programming. The differnet boats inherite the methods from the parent method. The boats will be able to tell the user how many passangers it is able to hold along with other information that is unique to the boat. 
 
 ## How to compiles / run the program
 In netbeans click run
