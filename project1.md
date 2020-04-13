@@ -24,7 +24,8 @@ make
 
 
 ![screenshot](/images/Screenshot1.png)
-Terminal Screen after compiled
+
+  Terminal Screen after compiled
 
 
 ![screenshot](/images/Screenshot2.png)
@@ -35,7 +36,7 @@ Terminal Screen after compiled
 
 
 
-Example 2 of html tags that were being tested
+Examples of html tags that were being tested
 
 
 
