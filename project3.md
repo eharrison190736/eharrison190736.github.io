@@ -14,9 +14,7 @@ This program is able to determine the hypotenuse and surface area of a right tri
 ## How to compiles / run the program
 
 ```bash
-make
-
-./html-test ./pages/theend.html ./pages/pokemon.html ./pages/index.html ./pages/notbalanced.html
+python RightTriangle.py
 ```
 
 ## UI Design
