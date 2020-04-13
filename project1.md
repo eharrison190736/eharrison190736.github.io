@@ -23,14 +23,13 @@ make
 
 
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![screenshot](/images/Screenshot from 2020-04-13 15-34-42.png)
+Terminal Screen after compiled
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![screenshot](/images/Screenshot from 2020-04-13 15-36-32.png)
+Example 1 of html tags that were being tested
+![screenshot](/images/Screenshot from 2020-04-13 15-37-06.png)
+Example 2 of html tags that were being tested
 
 
 
