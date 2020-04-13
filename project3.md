@@ -9,7 +9,7 @@ Right Triangle
 -   **Source Code Repository: https://github.com/eharrison190736/csci-301-fall-2019/blob/master/lab06/RightTriangle.py**
 
 ## Project description
-This program is able to determine the hypotenuse and surface area of a right triange. 
+This program is able to determine the hypotenuse and surface area of a right triange. The first triangle has the sides of 5 and 5. The second triangle contains the sides of 
 
 ## How to compiles / run the program
 
@@ -21,7 +21,7 @@ python RightTriangle.py
 
 
 
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot](images/screenshot5.png)
 Fig 1. The launch screen
 
 ![screenshot](images/dummy_thumbnail.jpg)
