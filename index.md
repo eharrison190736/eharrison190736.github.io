@@ -51,10 +51,10 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1 Title](/pdf/SecurityBreach.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 301** 
+- **Grade: B**
 
 
 ### [Sign Extender Presentation](/pdf/Sign_Extender2020.pdf)
