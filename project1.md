@@ -23,12 +23,12 @@ make
 
 
 
-![screenshot](/images/Screenshot from 2020-04-13 15-34-42.png)
+![screenshot](/images/Screenshot1.png)
 Terminal Screen after compiled
 
-![screenshot](/images/Screenshot from 2020-04-13 15-36-32.png)
+![screenshot](/images/Screenshot2.png)
 Example 1 of html tags that were being tested
-![screenshot](/images/Screenshot from 2020-04-13 15-37-06.png)
+![screenshot](/images/Screenshot3.png)
 Example 2 of html tags that were being tested
 
 
