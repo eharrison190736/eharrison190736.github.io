@@ -27,8 +27,10 @@ make
 Terminal Screen after compiled
 
 ![screenshot](/images/Screenshot2.png)
+
 Example 1 of html tags that were being tested
 ![screenshot](/images/Screenshot3.png)
+
 Example 2 of html tags that were being tested
 
 
