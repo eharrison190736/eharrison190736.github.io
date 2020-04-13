@@ -23,11 +23,13 @@ make
 
 
 
+  Terminal Screen after compiled
 ![screenshot](/images/Screenshot1.png)
 
-  Terminal Screen after compiled
 
 
+
+Examples of html tags that were being tested
 ![screenshot](/images/Screenshot2.png)
 
 
@@ -35,8 +37,6 @@ make
 ![screenshot](/images/Screenshot3.png)
 
 
-
-Examples of html tags that were being tested
 
 
 
