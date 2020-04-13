@@ -22,6 +22,7 @@ python RightTriangle.py
 
 
 ![screenshot](images/screenshot5.png)
+
                   Fig 1. Shows what the program looks like once it is compiled
 
 
