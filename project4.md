@@ -23,13 +23,13 @@ This project is based on the classic game of Battle Ship. The program will rando
 
 
 
-![screenshot](/images/Annotation 2020-04-13 172953.png)
+![screenshot](/images/battle1.png)
 Fig 1. The launch screen
 
-![screenshot](/images/Annotation 2020-04-13 172955.png)
+![screenshot](/images/battle2.png)
 Fig 2. Example output after input is processed.
 
-![screenshot](/images/Annotation 2020-04-13 172954.png)
+![screenshot](/images/battle3.png)
 Fig 3. Feedback when an error occurs.
 
 
