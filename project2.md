@@ -19,7 +19,7 @@ In netbeans click run
 
 
 ![screenshot](images/Screenshot8.png)
-Fig 1. The launch screen
+Fig 1. This is the test file that shows a boat being added
 
 ![screenshot](images/Screenshot9.png)
 Fig 2. Example output after input is processed.
