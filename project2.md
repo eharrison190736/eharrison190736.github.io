@@ -18,14 +18,12 @@ In netbeans click run
 
 
 
-![screenshot](images/Screenshots7.png)
+![screenshot](images/Screenshot8.png)
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot](images/Screenshot9.png)
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
 
 
 
