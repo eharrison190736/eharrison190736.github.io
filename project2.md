@@ -18,7 +18,7 @@ In netbeans click run
 
 
 
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot](images/Screenshots7.png)
 Fig 1. The launch screen
 
 ![screenshot](images/dummy_thumbnail.jpg)
